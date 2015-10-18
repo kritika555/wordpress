@@ -1,0 +1,8 @@
+/*
+Theme Name : Learningwordpress
+Author: Kritika karmacharya
+Author: Learningwebcode
+Version:1.0
+
+*/
+
